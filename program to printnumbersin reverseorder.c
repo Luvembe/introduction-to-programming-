@@ -8,4 +8,5 @@ int main()
 	{
 		printf("%d\n",ar[a]);
 	}
+return 0;
 }
